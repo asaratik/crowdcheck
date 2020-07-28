@@ -1,0 +1,45 @@
+[
+  {
+    "uid" : 1,
+    "title": "Commons, Redmond, USA",
+    "lat": 47.644508,
+    "lng": -122.136940,
+    "poi": [
+      {
+        "uid" : 1,
+        "title": "Chandy's Cafe",
+        "lat": 47.644539,
+        "lng": -122.137123,
+        "intensity": 10
+      },
+      {
+        "uid" : 2,
+        "title": "Typhoon Street",
+        "lat": 47.644424,
+        "lng": -122.136787,
+        "intensity": 10
+      },
+      {
+        "uid" : 3,
+        "title": "Noodle Bowl",
+        "lat": 47.644501,
+        "lng": -122.136330,
+        "intensity": 10
+      },
+      {
+        "uid" : 4,
+        "title": "Board Walk",
+        "lat": 47.644154,
+        "lng": -122.137825,
+        "intensity": 10
+      }
+    ]
+  },
+  {
+    "uid": 2,
+    "title": "IDC, Hyderabad, India",
+    "lat":  17.431656,
+    "lng": 78.343330,
+    "poi": []
+  }
+]

@@ -1,45 +1,103 @@
 [
   {
-    "uid" : 1,
+    "uid" : 1001,
     "title": "Commons, Redmond, USA",
     "lat": 47.644508,
     "lng": -122.136940,
     "poi": [
       {
-        "uid" : 1,
+        "uid" : 1002,
         "title": "Chandy's Cafe",
         "lat": 47.644539,
         "lng": -122.137123,
         "intensity": 10
       },
       {
-        "uid" : 2,
+        "uid" : 1002,
         "title": "Typhoon Street",
         "lat": 47.644424,
         "lng": -122.136787,
-        "intensity": 10
+        "intensity": 60
       },
       {
-        "uid" : 3,
+        "uid" : 1003,
         "title": "Noodle Bowl",
         "lat": 47.644501,
         "lng": -122.136330,
-        "intensity": 10
+        "intensity": 50
       },
       {
-        "uid" : 4,
+        "uid" : 1004,
         "title": "Board Walk",
         "lat": 47.644154,
         "lng": -122.137825,
-        "intensity": 10
+        "intensity": 80
       }
     ]
   },
   {
-    "uid": 2,
+    "uid": 1005,
     "title": "IDC, Hyderabad, India",
     "lat":  17.431656,
     "lng": 78.343330,
-    "poi": []
+    "poi": [
+      {
+      "uid" : 1006,
+      "title": "Food In",
+      "lat": 17.432594,
+      "lng": 78.340805,
+      "intensity": 70
+      },
+      {
+        "uid" : 1007,
+        "title": "Barista Lavazza",
+        "lat": 17.432562,
+        "lng": 78.343269,
+        "intensity": 20
+      }]
+  },
+  {
+    "uid": 1008,
+    "title": "Lincoln Square, Bellevue",
+    "lat":  47.615530,
+    "lng": -122.203900,
+    "poi": [
+      {
+        "uid" : 1009,
+        "title": "Panda Express",
+        "lat": 47.615501,
+        "lng": -122.203285,
+        "intensity": 45
+      },
+      {
+        "uid" : 1010,
+        "title": "Freshii",
+        "lat": 47.615707,
+        "lng": -122.203728,
+        "intensity": 25
+      },
+      {
+        "uid" : 1011,
+        "title": "Marketplace cafe",
+        "lat": 47.615421,
+        "lng": -122.203957,
+        "intensity": 80
+      }
+    ]
+  },
+  {
+    "uid": 1013,
+    "title": "IDC, Benguluru, India",
+    "lat":  12.967802,
+    "lng": 77.596428,
+    "poi": [
+      {
+        "uid" : 1014,
+        "title": "Tattv",
+        "lat": 12.968074,
+        "lng": 77.596687,
+        "intensity": 80
+      }
+    ]
   }
 ]
